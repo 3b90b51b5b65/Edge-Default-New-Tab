@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/3b90b51b5b65/Edge-Default-New-Tab/assets/162907802/64fd8b1c-edb7-4b64-84dd-8f44836c0397" width="1450">
+      <img src="https://github.com/3b90b51b5b65/Edge-Default-New-Tab/assets/162907802/4d9195ed-4f54-4e19-aa26-73340738e059" width="1450">
     </td>
   </tr>
   <tr>
